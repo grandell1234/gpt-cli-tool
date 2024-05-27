@@ -12,9 +12,9 @@ Move into the correct folder with this:
 
 Install dependencies:
 
-```$ pip3 install openai```
+```$ python -m pip install openai```
 
-```$ pip3 install pyperclip```
+```$ python -m pip install pyperclip```
 
 You are now ready to use it by running:
 
