@@ -10,6 +10,12 @@ Move into the correct folder with this:
 
 ```$ cd gpt-cli-tool```
 
+Install dependencies:
+
+```$ pip3 install openai```
+
+```$ pip3 install pyperclip```
+
 You are now ready to use it by running:
 
 ```$ python3 cli.py```
