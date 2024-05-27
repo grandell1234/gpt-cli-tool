@@ -15,7 +15,7 @@ You are now ready to use it by running:
 ```$ python3 cli.py```
 ___
 ### Setup API Keys
-If you already have an API key setup in environment variables, you can skip to Instructions for use. Otherwise, you will need to open up the file in your favorite IDE where there are instructions for setting it up at the top of the file with an API key.
+If you already have an API key setup in environment variables, you can skip to Instructions for use. Otherwise, you will need to open up the file in your favorite IDE where there are instructions for setting it up with an API key at the top of the file.
 ___
 ### Instructions for use:
 
