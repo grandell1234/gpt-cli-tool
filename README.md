@@ -1,4 +1,4 @@
-# gpt-command-line-tool
+# gpt-cli-tool
 A versatile CLI tool for managing and interacting with OpenAI chat sessions, including saving, loading, and copying conversations.
 ___
 ### How to install:
@@ -8,7 +8,7 @@ Run this command to download the CLI:
 
 Move into the correct folder with this:
 
-```$ cd gpt-CLI-tool```
+```$ cd gpt-cli-tool```
 
 You are now ready to use it by running:
 
