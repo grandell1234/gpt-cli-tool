@@ -4,7 +4,7 @@ ___
 ### How to install:
 Run this command to download the CLI:
 
-```$ git clone https://github.com/grandell1234/gpt-CLI-tool.git ```
+```$ git clone https://github.com/grandell1234/gpt-cli-tool.git ```
 
 Move into the correct folder with this:
 
