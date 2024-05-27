@@ -14,13 +14,16 @@ You are now ready to use it by running:
 
 ```$ python3 cli.py```
 ___
+### Setup API Keys
+If you already have an API key setup in environment variables, you can skip to Instructions for use. Otherwise, you will need to open up the file in your favorite IDE where there are instructions for setting it up at the top of the file with an API key.
+___
 ### Instructions for use:
 
 When you boot it up with ```$ python3 cli.py``` the help menu appears which contains all the commands you can use with it:
 
 ![Screenshot 2024-05-27 at 10 11 36 AM](https://github.com/grandell1234/gpt-command-line-tool/assets/78573365/b8229999-2689-4639-b3d7-81229cf76ab2)
 
-Some commands also contain aliases such as ```?exit``` working like ```?quit```.
+Some commands contain aliases such as ```?exit``` working like ```?quit```.
 
 You can do ```?copy all``` to copy the entire conversation
 ___
